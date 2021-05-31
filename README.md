@@ -1,4 +1,5 @@
 # **growth mindset**
+
 ### that belivety on your abilities can be developed hard work and talent
 
  _how keep myself in **a growth mindset** ?_
