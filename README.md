@@ -11,7 +11,7 @@ content |  linke
 growth mindset |[growth](https://malakkhasawneh2.github.io/reading-notes/one)
 githud & markdown |[github&md](https://malakkhasawneh2.github.io/reading-notes/summarize1)
 =======
-### ** this is why i want to learn about**
+### ** this is why i want to learn about ***
 
 content |  linke
 ------------ | -------------
@@ -19,7 +19,7 @@ content |  linke
 growth mindset |[growth](https://malakkhasawneh2.github.io/reading-notes/one.md)
 githud & markdown |[github&md](https://malakkhasawneh2.github.io/reading-notes/summarize1.md)
 =======
-growth mindset |[growth] (https://malakkhasawneh2.github.io/reading-notes/one.md)
-githud & markdown |[github&md] (https://malakkhasawneh2.github.io/reading-notes/summarize1.md)
+growth mindset |[growth](https://malakkhasawneh2.github.io/reading-notes/one.md)
+githud & markdown |[github&md](https://malakkhasawneh2.github.io/reading-notes/summarize1.md)
 >>>>>>> 167233b351a350cff10cccf18c17e9a82a559eff
 >>>>>>> e326a5a940861d0284db1bd64b1bf15ba55e509c
