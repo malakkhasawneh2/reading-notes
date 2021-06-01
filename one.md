@@ -1,11 +1,12 @@
-### my name malak khasawneh i born in irbed in 1996
-## **_i'm 25 years old_**.
-## **i studed pharmacy in yarmouk un and graduatide in 2019.**
-### i registered for this scholar ship to develop my self and workon gaining more information.
-#### *as you know, the digital world has become one of one of the basics of life.* 
-### ** this is why i want to learn about**
+# **growth mindset**
 
-content |  linke
------------- | -------------
-growth mindset |[growth] (https://malakkhasawneh2.github.io/reading-notes/README.md)
-githud & markdown |[github&md] (https://malakkhasawneh2.github.io/reading-notes/summarize1.md)
+### that belivety on your abilities can be developed hard work and talent
+
+ _how keep myself in **a growth mindset** ?_
+ * 1 having positive thinking and positive energy
+ * 2 having a passion to do whati want and remember that **_no pain no gain_**
+ * 3 stay with positive people and people who support me
+ 
+
+
+
