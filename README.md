@@ -4,12 +4,12 @@
 ### i registered for this scholar ship to develop my self and workon gaining more information.
 #### *as you know, the digital world has become one of one of the basics of life.* 
 
-### ** this is why i want to learn about **
+### _this is why i want to learn about_
 
 content |  linke
 ------------ | -------------
 growth mindset |[growth](https://malakkhasawneh2.github.io/reading-notes/one)
-githud & markdown |[github&md](https://malakkhasawneh2.github.io/reading-notes/summarize1)
+githud & markdown |[github&md](https://github.com/malakkhasawneh2/reading-notes/blob/main/summarize1)
 =======
 
 
