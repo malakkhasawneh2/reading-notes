@@ -12,6 +12,9 @@ growth mindset |[growth](https://malakkhasawneh2.github.io/reading-notes/one)
 githud & markdown |[github&md](https://github.com/malakkhasawneh2/reading-notes/blob/main/summarize1.md)
 HTML |[sumHtml](https://malakkhasawneh2.github.io/reading-notes/hhhh)
 JS |[sumJS](https://malakkhasawneh2.github.io/reading-notes/jssumm)
+Expressions&Operators&Loops |[summary](https://malakkhasawneh2.github.io/reading-notes/loop)
+
+
 
 
 
