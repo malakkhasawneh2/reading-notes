@@ -14,6 +14,7 @@ HTML |[sumHtml](https://malakkhasawneh2.github.io/reading-notes/hhhh)
 JS |[sumJS](https://malakkhasawneh2.github.io/reading-notes/jssumm)
 Expressions&Operators&Loops |[summary](https://malakkhasawneh2.github.io/reading-notes/loop)
 Css |[SumCss](https://malakkhasawneh2.github.io/reading-notes/css)
+function |[function sum](https://malakkhasawneh2.github.io/reading-notes/Functions)
 
 
 
