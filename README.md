@@ -18,7 +18,7 @@ Function | [function sum](https://malakkhasawneh2.github.io/reading-notes/Functi
 # **Code 201 Reading Notes**
 Content | Linke
 ------------ | -------------
-Topic 1 | Source
+Html & Js | [Summary](https://malakkhasawneh2.github.io/reading-notes/class-01)
 Topic 2 | Source
 Topic 3 | Source
 Topic 4 | Source
