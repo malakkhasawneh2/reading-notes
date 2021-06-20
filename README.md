@@ -6,6 +6,7 @@
 # This is my reading notes
 ## Here I will post and share the topics that I will read during this course
 # Code 102 Reading Notes
+
 | Content      | Linke |
 | ----------- | ----------- |
 | Growth mindset      | [growth](https://malakkhasawneh2.github.io/reading-notes/one)       |
