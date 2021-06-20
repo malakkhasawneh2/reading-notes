@@ -149,3 +149,134 @@ ______________
 # **CSS Selectors**
 ![CSS Selectors](https://cf.ppt-online.org/files/slide/k/Kbp3XcismqFREgGuz9OBIWY1vDx6MwHVeZQjC5/slide-8.jpg)
 ____________
+# **JavaScript**
+* give a web browser instructions
+* ***script*** is a series of instructions that a computer can follow one-by-one.
+* ***statement*** is Each individual instruction or step 
+* 1 Each of the lines of code in green is a statement.
+* 2 The pink curly braces indicate the start and end of a code block. (Each code block could contain many more statements.)
+* 3 The code in purple determines which code
+should run (as you will see on p149).
+_______
+# COMMENTS
+* to explain what your code does.
+* They help make your code easier to read and understand.
+* This can help you and others who read your code. 
+* MULTI-LINE COMM ENTS
+  - write a comment that stretches over more than one line
+  - starting with the /* characters and ending with the */ characters.
+   - not processed by the JavaScript interpreter
+   - used for descriptions of how the script works, or to prevent a section of the script from running when testing it.
+* SINGLE-LINE COMMENTS
+  - anything that follows the two forward slash characters I/ on that line will not be processed by the JavaScript interpreter.
+  - used for short descriptions of what the code is doing.
+________
+# VARIABLE?
+* temporarily store the bits of information it needs to do its job.  
+* Declare Variable by :
+  - var 
+  - variable mame;
+_____
+# Data type 
+* NUMERIC DATA TYPE 
+  - the numeric data type handles numbers.
+  - like 0.75 
+* STRING DATA TYPE
+  - consists of letters and other characters.
+  - like 'Hi Ivy!'  
+* BOOLEAN DATA TYPE 
+  -  can have one of two values: true or false.
+_______
+# USING A VARIABLE TO STORE A NUMBER 
+![js](https://www.wikihow.com/images/thumb/7/7e/Declare-a-Variable-in-Javascript-Step-2.jpg/aid1337336-v4-728px-Declare-a-Variable-in-Javascript-Step-2.jpg.webp)  
+# USING A VARIABLE TO STORE A STRING 
+![strine](https://i.ytimg.com/vi/jgibhUEU8IU/maxresdefault.jpg)
+# USING A VARIABLE TO STORE A BOOLEAN 
+_________
+# RULES FOR NAMING VARIABLES 
+* The name must begin with a letter, dollar sign ($),or an underscore (_). It must not start with a number. 
+* The name can contain letters, numbers, dollar sign ($), or an underscore (_). Note that you must not use a dash(-) or a period (.) in a variable name
+* You cannot use keywords or reserved words. Keywords are special words that tell the interpreter to do something. For example, var is a keyword used to declare a variable. Reserved words are ones that may be used in a future version of JavaScript.
+* All variables are case sensitive, so score and Score would be different variable names, but it is bad practice to create two variables that have the same name using different cases
+* Use a name that describes the kind of information that the variable stores. For example, fi rstName might be used to store a person's first name, l astNarne for their last name, and age for their age.  
+* If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. For example, f i rstName rather than fi rstnarne (this is referred to as camel case). You can also use an underscore between each word (you cannot use a dash).
+# EXPRESSIONS
+![EXPRESSIONS](https://www.bookofnetwork.com/images/javascript-images/JS_Type-of-Expressions_19Sep16_1909.png)
+# ARITHMETI COPERATORS
+![ARITHMETI COPERATORS](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Arithmatic-Operators.png)
+# STRING OPERATORS
+* join tow strings together
+* "A"+"BC" the result is ABC
+________________
+# **Operators**
+# _JavaScript has the following types of operators:_
+* Assignment operators
+* Comparison operators
+* Logical operators
+* String operators
+
+# _**Assignment operator**_
+
+* assigns a value to its left operand based on the value of its right operand. The simple assignment operator is equal (=), which assigns the value of its right operand to its left operand. That is, x = y assigns the value of y to x.
+# _**Comparison operators**_
+* its operands and returns a logical value based on whether the comparison is true. 
+* The operands can be numerical, string, logical, or object values. 
+* if the two operands are not of the same type, JavaScript attempts to convert them to an appropriate type for the comparison. 
+* The sole exceptions to type conversion within comparisons involve the === and !== operators, which perform strict equality and inequality comparisons. 
+* These operators do not attempt to convert the operands to compatible types before checking equality.
+* Equal (==)	Returns true if the operands are equal.	
+* ex . 
+### 3 == var1 
+### "3" == var1
+### 3 == '3' 
+* Strict equal (===)	Returns true if the operands are equal and of the same type. See also Object.is and sameness in JS.
+* ex .
+###	3 === var1
+* Greater than (>)	Returns true if the left operand is greater than the right operand.	
+### var2 > var1
+### "12" > 2
+* Greater than or equal (>=)	Returns true if the left operand is greater than or equal to the right operand.	
+### var2 >= var1
+### var1 >= 3
+* Less than (<)	Returns true if the left operand is less than the right operand.
+###	var1 < var2
+### "2" < 12
+* Less than or equal (<=)	Returns true if the left operand is less than or equal to the right operand.
+###	var1 <= var2
+### var2 <= 5
+# _**Logical operators**_
+* Are typically used with Boolean (logical) values; when they are, they return a Boolean value. 
+* the && and || operators actually return the value of one of the specified operands, so if these operators are used with non-Boolean values, they may return a non-Boolean value. 
+* **Logical AND (&&)**	
+### expr1 && expr2	Returns expr1 if it can be converted to false; otherwise, returns expr2. Thus, when used with Boolean values, && returns true if both operands are true; otherwise, returns false.
+* **Logical OR (||)**	
+### expr1 || expr2	Returns expr1 if it can be converted to true; otherwise, returns expr2. Thus, when used with Boolean values, || returns true if either operand is true; if both are false, returns false.
+* **Logical NOT (!)**	
+### !expr	Returns false if its single operand that can be converted to true; otherwise, returns true.
+# _**String operators**_
+* ### In addition to the comparison operators, which can be used on string values, the concatenation operator (+) concatenates two string values together, returning another string that is the union of the two operand strings.
+# For example
+# console.log('my ' + 'string')
+# console logs the string "my string".
+# _**Loops and iteration**_
+#  Easy way to do something repeatedly. 
+# for statement
+### A for loop repeats until a specified condition evaluates to false. 
+### A for statement looks as follows:
+
+# for ([initialExpression]; 
+# [conditionExpression] 
+# [incrementExpression])
+# When a for loop executes, the following occurs:
+### The initializing expression initialExpression, if any, is executed. This expression usually initializes one or more loop counters, but the syntax allows an expression of any degree of complexity. This expression can also declare variables.
+### The conditionExpression expression is evaluated. If the value of conditionExpression is true, the loop statements execute. If the value of condition is false, the for loop terminates. (If the condition expression is omitted entirely, the condition is assumed to be true.)
+### The statement executes. To execute multiple statements, use a block statement ({ ... }) to group those statements.
+## If present, the update expression incrementExpression is executed.
+## Control returns to Step 2.
+# _**while statement**_
+## A while statement executes its statements as long as a specified condition evaluates to true. 
+# A while statement looks as follows:
+# while (condition)
+ # statement
+### If the condition becomes false, statement within the loop stops executing and control passes to the statement following the loop.
+## The condition test occurs before statement in the loop is executed. If the condition returns true, statement is executed and the condition is tested again. If the condition returns false, execution stops, and control is passed to the statement following while.
