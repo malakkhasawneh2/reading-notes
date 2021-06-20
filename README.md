@@ -6,36 +6,32 @@
 # This is my reading notes
 ## Here I will post and share the topics that I will read during this course
 # Code 102 Reading Notes
-Content | Linke
------------- | -------------
-Growth mindset | [growth](https://malakkhasawneh2.github.io/reading-notes/one)
-Githud & markdown | [github&md](https://github.com/malakkhasawneh2/reading-notes/blob/main/summarize1.md)
-HTML | [sumHtml](https://malakkhasawneh2.github.io/reading-notes/hhhh)
-JS | [sumJS](https://malakkhasawneh2.github.io/reading-notes/jssumm)
-Expressions&Operators&Loops | [summary](https://malakkhasawneh2.github.io/reading-notes/loop)
-Css | [SumCss](https://malakkhasawneh2.github.io/reading-notes/css)
-Function | [function sum](https://malakkhasawneh2.github.io/reading-notes/Functions)
+| Content      | Linke |
+| ----------- | ----------- |
+| Growth mindset      | [growth](https://malakkhasawneh2.github.io/reading-notes/one)       |
+| Githud & markdown   | [github&md](https://github.com/malakkhasawneh2/reading-notes/blob/main/summarize1.md)        |
+| HTML   | [sumHtml](https://malakkhasawneh2.github.io/reading-notes/hhhh)        |
+| JS   | [sumJS](https://malakkhasawneh2.github.io/reading-notes/jssumm)        |
+| Expressions&Operators&Loops   | [summary](https://malakkhasawneh2.github.io/reading-notes/loop)        |
+| Css   | [SumCss](https://malakkhasawneh2.github.io/reading-notes/css)        |
+| Function   | [function sum](https://malakkhasawneh2.github.io/reading-notes/Functions)        |
 # **Code 201 Reading Notes**
-Content | Linke
------------- | -------------
-Html & Js | [Summary](https://malakkhasawneh2.github.io/reading-notes/class-01)
-Topic 2 | Source
-Topic 3 | Source
-Topic 4 | Source
-Topic 5 | Source
-Topic 6 | Source
-Topic 7 | Source
-Topic 8 | Source
-Topic 9 | Source
-Topic 10 | Source
-Topic 11 | Source
-Topic 12 | Source
-Topic 13 | Source
-Topic 14 | Source
-Topic 15 | Source
 
-| Syntax      | Description |
+| Content      | Linke |
 | ----------- | ----------- |
 | Html & Js      | [Summary](https://malakkhasawneh2.github.io/reading-notes/class-01)       |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
+| Paragraph   | Text        |
 | Paragraph   | Text        |
 
