@@ -30,7 +30,7 @@
 | Content      | Linke |
 | ----------- | ----------- |
 | Html & Js      | [Summary](https://malakkhasawneh2.github.io/reading-notes/class-01)       |
-| Paragraph   | Text        |
+| more info in Html&JS&CSS   | [Summary2](https://malakkhasawneh2.github.io/reading-notes/class-02)        |
 | Paragraph   | Text        |
 | Paragraph   | Text        |
 | Paragraph   | Text        |
