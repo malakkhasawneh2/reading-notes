@@ -39,6 +39,9 @@
 * With an external style sheet, you can change the look of an entire website by changing just one file!
 
 * Each HTML page must include a reference to the external style sheet file inside the <link> element, inside the head section.
+  - href : is specifies the path to the CSS file (which is often placed in a folder called css or styles).
+   - type : This attribute specifies the type of document being linked to. The value should be text/css.
+   - rel : This specifies the relationship between the HTML page and the file it is linked to. The value should be stylesheet when linking to a CSS file.
 # _Internal CSS_
 * An internal style sheet may be used if one single HTML page has a unique style.
 
@@ -47,4 +50,9 @@
 * An inline style may be used to apply a unique style for a single element.
 
 * To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
+
+ 
+
+
+
  
