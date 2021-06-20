@@ -34,4 +34,8 @@ Topic 13 | Source
 Topic 14 | Source
 Topic 15 | Source
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Html & Js      | [Summary](https://malakkhasawneh2.github.io/reading-notes/class-01)       |
+| Paragraph   | Text        |
 
