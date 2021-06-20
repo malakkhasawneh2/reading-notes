@@ -6,6 +6,22 @@
 # This is my reading notes
 ## Here I will post and share the topics that I will read during this course
 # Code 102 Reading Notes
+| Syntax      | Description |
+| ----------- | ----------- |
+| Growth mindset      | [growth](https://malakkhasawneh2.github.io/reading-notes/one)       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
+
+
+
+
+
+
+
+
 | Content      | Linke |
 | ----------- | ----------- |
 | Growth mindset      | [growth](https://malakkhasawneh2.github.io/reading-notes/one)       |
