@@ -13,31 +13,18 @@
 | Githud & markdown   | [github&md](https://github.com/malakkhasawneh2/reading-notes/blob/main/summarize1.md)        |
 | HTML   | [sumHtml](https://malakkhasawneh2.github.io/reading-notes/hhhh)        |
 | JS   | [sumJS](https://malakkhasawneh2.github.io/reading-notes/jssumm)        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
-
-
-
-
-
-
-
-
-
-
-| HTML   | [sumHtml](https://malakkhasawneh2.github.io/reading-notes/hhhh)        |
-| JS   | [sumJS](https://malakkhasawneh2.github.io/reading-notes/jssumm)        |
 | Expressions&Operators&Loops   | [summary](https://malakkhasawneh2.github.io/reading-notes/loop)        |
 | Css   | [SumCss](https://malakkhasawneh2.github.io/reading-notes/css)        |
 | Function   | [function sum](https://malakkhasawneh2.github.io/reading-notes/Functions)        |
+
+
+
+
+
+
+
+
+
 # **Code 201 Reading Notes**
 
 | Content      | Linke |
