@@ -11,8 +11,8 @@
 | ----------- | ----------- |
 | Growth mindset      | [growth](https://malakkhasawneh2.github.io/reading-notes/one)       |
 | Githud & markdown   | [github&md](https://github.com/malakkhasawneh2/reading-notes/blob/main/summarize1.md)        |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
+| HTML   | [sumHtml](https://malakkhasawneh2.github.io/reading-notes/hhhh)        |
+| JS   | [sumJS](https://malakkhasawneh2.github.io/reading-notes/jssumm)        |
 | Paragraph   | Text        |
 | Paragraph   | Text        |
 | Paragraph   | Text        |
@@ -33,7 +33,6 @@
 
 
 
-| Githud & markdown   | [github&md](https://github.com/malakkhasawneh2/reading-notes/blob/main/summarize1.md)        |
 | HTML   | [sumHtml](https://malakkhasawneh2.github.io/reading-notes/hhhh)        |
 | JS   | [sumJS](https://malakkhasawneh2.github.io/reading-notes/jssumm)        |
 | Expressions&Operators&Loops   | [summary](https://malakkhasawneh2.github.io/reading-notes/loop)        |
