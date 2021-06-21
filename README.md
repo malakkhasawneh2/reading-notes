@@ -31,7 +31,7 @@
 | ----------- | ----------- |
 | class-01      | [Summary](https://malakkhasawneh2.github.io/reading-notes/class-01)       |
 | class-02   | [Summary2](https://malakkhasawneh2.github.io/reading-notes/class-02)        |
-| Paragraph   | Text        |
+| class-03   | [Summary3](https://malakkhasawneh2.github.io/reading-notes/class-03)        |
 | Paragraph   | Text        |
 | Paragraph   | Text        |
 | Paragraph   | Text        |
