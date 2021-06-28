@@ -35,7 +35,7 @@
 | class-04   | [Summary4](https://malakkhasawneh2.github.io/reading-notes/class-04)        |
 | class-05   | [Summary5](https://malakkhasawneh2.github.io/reading-notes/class-05)        |
 | class-06   | [Summary6](https://malakkhasawneh2.github.io/reading-notes/class-06)        |
-| Paragraph   | Text        |
+| class-07   | [Summary7](https://malakkhasawneh2.github.io/reading-notes/class-07)        |
 | Paragraph   | Text        |
 | Paragraph   | Text        |
 | Paragraph   | Text        |
