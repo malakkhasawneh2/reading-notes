@@ -39,7 +39,7 @@
 | class-08   | [Summary8](https://malakkhasawneh2.github.io/reading-notes/class-08)        |
 | class-09   | [Summary9](https://malakkhasawneh2.github.io/reading-notes/class-09)        |
 | class-10   | [Summary10](https://malakkhasawneh2.github.io/reading-notes/class-10)        |
-| Paragraph   | Text        |
+| class-11   | [Summary11](https://malakkhasawneh2.github.io/reading-notes/class-11)        |
 | Paragraph   | Text        |
 | Paragraph   | Text        |
 | Paragraph   | Text        |
