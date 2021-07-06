@@ -41,7 +41,7 @@
 | class-10   | [Summary10](https://malakkhasawneh2.github.io/reading-notes/class-10)        |
 | class-11   | [Summary11](https://malakkhasawneh2.github.io/reading-notes/class-11)        |
 | class-12   | [Summary12](https://malakkhasawneh2.github.io/reading-notes/class-12)        |
-| Paragraph   | Text        |
+| class-13   | [Summary13](https://malakkhasawneh2.github.io/reading-notes/class-13)        |
 | Paragraph   | Text        |
 | Paragraph   | Text        |
 
