@@ -66,7 +66,114 @@ ________________
 <img src="img/f16.PNG">
 
 ## Transform Origin
-* 
+* dead center of an element, both 50% horizontally and 50% vertically. 
+* can accept one or two values. When only one value is specified, that value is used for both the horizontal and vertical axes. If two values are specified, the first is used for the horizontal axis and the second is used for the vertical axis.
+
+<img src="img/f17.PNG">
+<img src="img/f18.PNG">
+
+## Perspective
+* The perspective of an element can be set in two different ways. One way includes using the perspective value within the transform property on individual elements, while the other includes using the perspective property on the parent element residing over child elements being transformed
+
+<img src="img/f19.PNG">
+
+## Perspective Depth Value
+
+<img src="img/f20.PNG">
+
+## Perspective Origin
+*  used with the perspective-origin property, and maintain the same relationship to the element. The large difference between the two falls where the origin of a transform determines the coordinates used to calculate the change of a transform, while the origin of a perspective identifies the coordinates of the vanishing point of a transform
+
+<img src="img/f21.PNG">
+<img src="img/f22.PNG">
+<img src="img/f23.PNG">
+
+# 3D Transforms
+## 3D Rotate
+* can rotate an element around any axes. To do so, we use three new transform values, including rotateX, rotateY, and rotateZ.
+
+<img src="img/f24.PNG">
+<img src="img/f25.PNG">
+
+## 3D Scale
+
+<img src="img/f26.PNG">
+
+## 3D Translate
+
+<img src="img/f27.PNG">
+
+## Transform Style
+
+<img src="img/f28.PNG">
+
+## Backface Visibility
+
+<img src="img/f29.PNG">
+<img src="img/f30.PNG">
+
+# 8 SIMPLE CSS3 TRANSITIONS THAT WILL WOW YOUR USERS
+
+## 1. Fade in
+* Having things fade in is a fairly common request from clients. It’s a great way to emphasize functionality or draw attention to a call to action.
+
+* Fade in effects are coded in two steps: first, you set the initial state; next, you set the change, for example on hover:
+
+<img src="img/d1.PNG">
+
+## 2. Change color
+
+<img src="img/d2.PNG">
+
+## 3. Grow & Shrink
+* To grow an element, you used to have to use its width and height, or its padding. But now we can use CSS3’s transform to enlarge.
+
+<img src="img/d3.PNG">
+
+* Shrinking an element is as simple as growing it. To enlarge an element we specify a value greater than 1, to shrink it, we specify a value less than 1:
+
+<img src="img/d4.PNG">
+
+## 4. Rotate elements
+* Give your div the class “rotate” and add the following to your CSS:
+
+<img src="img/d5.PNG">
+
+## 5. Square to circle
+* A really popular effect at the moment is transitioning a square element into a round one, and vice versa. With CSS, it’s a simple effect to achieve, we just transition the border-radius property.
+
+* Give your div the class “circle” and add this CSS to your styles:
+
+<img src="img/d6.PNG">
+
+## 6. 3D shadow
+* This effect is achieved by adding a box shadow, and then moving the element on the x axis using the transform and translate properties so that it appears to grow out of the screen.
+
+* Give your div the class “threed” and then add the following code to your CSS:
+
+<img src="img/d7.PNG">
+
+## 7. Swing
+* In this case, we’ll first define a CSS animation in your styles. You’ll notice that due to implementation issues, we need to use @-webkit-keyframes as well as @keyframes
+
+<img src="img/d8.PNG">
+<img src="img/d9.PNG">
+<img src="img/d10.PNG">
+
+* This animation simply moves the element left and right, now all we need to do is apply it:
+
+<img src="img/d11.PNG">
+
+## 8. Inset border
+* Give your div the class “border” and add the following CSS to your styles:
+
+<img src="img/d12.PNG">
+
+
+
+
+
+
 
 
 
