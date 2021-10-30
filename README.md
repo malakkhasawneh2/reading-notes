@@ -76,3 +76,23 @@
 
 
 # Code 401 - Advanced Software Development
+
+| Content      | Linke |
+| ----------- | ----------- |
+| class-0001      | [Summary1](https://malakkhasawneh2.github.io/reading-notes/301/class-0001)       |
+| class-0002   | [Summary2](https://malakkhasawneh2.github.io/reading-notes/301/class-0002)        |
+| class-0003   | [Summary3](https://malakkhasawneh2.github.io/reading-notes/301/class-0003)        |
+| class-0004   | [Summary4](https://malakkhasawneh2.github.io/reading-notes/301/class-0004)        |
+| class-0005   | [Summary5](https://malakkhasawneh2.github.io/reading-notes/301/class-0005)        |
+| class-0006   | [Summary6](https://malakkhasawneh2.github.io/reading-notes/301/class-0006)        |
+| class-0007   | [Summary7](https://malakkhasawneh2.github.io/reading-notes/301/class-0007)        |
+| class-0008   | [Summary8](https://malakkhasawneh2.github.io/reading-notes/301/class-0008)        |
+| class-0009   | [Summary9](https://malakkhasawneh2.github.io/reading-notes/301/class-0009)        |
+| class-0010   | [Summary10](https://malakkhasawneh2.github.io/reading-notes/301/class-0010)        |
+| class-0011   | [Summary11](https://malakkhasawneh2.github.io/reading-notes/301/class-0011)        |
+| class-0012   | [Summary12](https://malakkhasawneh2.github.io/reading-notes/301/class-0012)        |
+| class-0013   | [Summary13](https://malakkhasawneh2.github.io/reading-notes/301/class-0013)        |
+| class-0014   | [Summary14](https://malakkhasawneh2.github.io/reading-notes/301/class-0014)        |
+| class-0015   | [Summary15](https://malakkhasawneh2.github.io/reading-notes/301/class-0015)        |
+
+
