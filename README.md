@@ -7,6 +7,11 @@
 ## Here I will post and share the topics that I will read during this course
 # Code 102 Reading Notes
 
+
+# It contains summaries of all things related to programming, which help to access information smoothly
+
+# Code 102 - Intro to Software Development
+
 | Content      | Linke |
 | ----------- | ----------- |
 | Growth mindset      | [growth](https://malakkhasawneh2.github.io/reading-notes/one)       |
@@ -25,7 +30,7 @@
 
 
 
-# **Code 201 Reading Notes**
+# **Code 201 Foundations of Software Development**
 
 | Content      | Linke |
 | ----------- | ----------- |
@@ -47,7 +52,7 @@
 
 
 
-# **Code 301 Reading Notes**
+# **Code 301 Intermediate Software Development**
 ## Things I want to know more about
 
 
@@ -69,3 +74,5 @@
 | class-014   | [Summary14](https://malakkhasawneh2.github.io/reading-notes/301/class-014)        |
 | class-015   | [Summary15](https://malakkhasawneh2.github.io/reading-notes/301/class-015)        |
 
+
+# Code 401 - Advanced Software Development
