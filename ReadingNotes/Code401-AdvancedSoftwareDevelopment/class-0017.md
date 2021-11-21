@@ -2,7 +2,8 @@
     Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. 
     It is a task that has to be performed responsibly so that it does not have a detrimental effect on the sites being scraped. 
     Web Crawlers can retrieve data much quicker, in greater depth than humans, so bad scraping practices can have some impact on the performance of the site. 
-    While most websites may not have anti-scraping mechanisms, some sites use measures that can lead to web scraping getting blocked, because they do not believe in open data access.
+    While most websites may not have anti-scraping mechanisms, some sites use measures that can lead to web scraping getting blocked,
+    because they do not believe in open data access.
 
 ## Web Scraping best practices to follow to scrape without getting blocked
     1-  Respect Robots.txt
