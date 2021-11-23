@@ -1,55 +1,63 @@
-# Encryption, decryption, and cracking
+# Automation
+# Regular Expressions
+Regular Expressions, often shortened as regex, are a sequence of characters used to check whether a pattern exists in a given text (string) or not. If you’ve ever used search engines, search and replace tools of word processors and text editors - you’ve already seen regular expressions in use. They are used at the server side to validate the format of email addresses or passwords during registration, used for parsing text data files to find, replace, or delete certain string, etc. They help in manipulating textual data, which is often a prerequisite for data science projects involving text mining.
 
-## Encrypting a message
-Imagine Caesar wants to send this message:
+## functions
+1. search()
+2. group()
 
-SECRET MEETING AT THE PALACE
+**.** : Matches any single character except the newline character
 
-Here's what that might look like encrypted:
+**^** : Matches the start of the string.
 
-YKIXKZ SKKZOTM GZ ZNK VGRGIK
+**$** : Matches the end of string.
 
-That looks an awfully lot like gobbledygook at first, but this encrypted message is actually very related to the original text.
+**[abc]** : Matches a or b or c.
 
-The Caesar Cipher is a simple substitution cipher which replaces each original letter with a different letter in the alphabet by shifting the alphabet by a certain amount.
+**[a-zA-Z0-9]** : Matches any letter from (a to z) or (A to Z) or (0 to 9).
+
+**\s**: have three scenarios:
+- space
+- if \ring it is treated as a character (\r)
+- if \\string it is treated as a character (\s)
+
+**\w** : Matches any single letter, digit, or underscore.
+
+**\W** : Matches any character not part of \w (lowercase w).
+
+**\s** : Matches a single whitespace character like: space, newline, tab, return.
+
+**\S** : Matches any character not part of \s (lowercase s).
+
+**\d** : Matches decimal digit 0-9.
+
+**\D** : Matches any character that is not a decimal digit.
+
+**\t** : Matches tab.
+
+**\n** : Matches newline.
+
+**\r** : Matches return.
+
+**\A** : Matches only at the start of the string. Works across multiple lines as well.
+
+**\Z** : Matches only at the end of the string.
+
+**\b** : Matches only the beginning or end of the word.
+
+**+** : Checks if the preceding character appears one or more times starting from that position.
+
+**Star(*)** : Checks if the preceding character appears zero or more times starting from that position.
+
+**?**** : Checks if the preceding character appears exactly zero or one time starting from that position.
+
+# Shutil
+> import glob
+> import shutil
+
+## Functions
+1. Copying Files
+2. Working With Directory Trees
+3. Finding Files
 
 
-
-
-## Decrypting a message
-
-According to historical records, Caesar always used a shift of 3. As long as his message recipient knew the shift amount, it was trivial for them to decode the message.
-Imagine Caesar sends this message to a comrade:
-EHZDUH EUXWXV
-
-
-
-## Cracking the cipher
-Imagine that a very literate and savvy enemy intercepts one of Caesar's messages.
-
-RZ VMZ WMDIBDIB VGG AJMXZN OJ EJDI RDOC XGZJKVOMV OJ YZAZVO OCZ ZIZHT LPZZI VO OCZ IDGZ YZGOV
-
-That enemy does not know that Caesar always uses a shift of 3, so he must attempt to "crack" the cipher without knowing the shift.
-
-There are three main techniques he could use: frequency analysis, known plaintext, and brute force.
-
-
-# ***Caesar cipher***
-
-In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift cipher, Caesar's code or Caesar shift, is one of the simplest and most widely known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. For example, with a left shift of 3, D would be replaced by A, E would become B, and so on. The method is named after Julius Caesar, who used it in his private correspondence.
-
-
-The encryption step performed by a Caesar cipher is often incorporated as part of more complex schemes, such as the Vigenère cipher, and still has modern application in the ROT13 system. As with all single-alphabet substitution ciphers, the Caesar cipher is easily broken and in modern practice offers essentially no communications security.
-
-
-
-
-The Caesar cipher is named after Julius Caesar, who, according to Suetonius, used it with a shift of three (A becoming D when encrypting, and D becoming A when decrypting) to protect messages of military significance. While Caesar's was the first recorded use of this scheme, other substitution ciphers are known to have been used earlier.
-
-
-## Example:
-
-```
-Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
-Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
-```
